@@ -1,0 +1,31 @@
+
+
+
+h3{
+    text-align: center;
+  }
+  .board {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+
+  button{
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: #000;
+    background-color: greenyellow;
+    border: none;
+    display: flex;
+    margin: auto;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+
+  button:hover{
+    background-color: #00ff00;
+  }
+  
