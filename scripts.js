@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cards[optionOneId].setAttribute('src', 'images/board.png')
         cards[optionTwoId].setAttribute('src', 'images/board.png')
         Combina.textContent = 'Você errou, tente novamente'
-        contarErros++;
+        contarErros = contarErros + 1;
         Pontuação = Pontuação - 5;
         Erros.textContent = 'Erros: '+ contarErros;
       }
