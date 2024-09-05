@@ -38,4 +38,4 @@ O Jogo da Memória tem como objetivo treinar a capacidade de memorização do jo
 
 
 
-### FEITO POR <a href="github.com/Vilelajlr">José Leandro Vilela</a>
+### FEITO POR <a href="https://github.com/Vilelajlr">José Leandro Vilela</a>
